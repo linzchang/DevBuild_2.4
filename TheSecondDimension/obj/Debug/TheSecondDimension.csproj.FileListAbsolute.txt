@@ -1,0 +1,7 @@
+\\mi\dfs\Users\LChang\Desktop\Assessment 2\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.exe.config
+\\mi\dfs\Users\LChang\Desktop\Assessment 2\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.exe
+\\mi\dfs\Users\LChang\Desktop\Assessment 2\TheSecondDimension\TheSecondDimension\bin\Debug\TheSecondDimension.pdb
+\\mi\dfs\Users\LChang\Desktop\Assessment 2\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.csprojAssemblyReference.cache
+\\mi\dfs\Users\LChang\Desktop\Assessment 2\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.csproj.CoreCompileInputs.cache
+\\mi\dfs\Users\LChang\Desktop\Assessment 2\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.exe
+\\mi\dfs\Users\LChang\Desktop\Assessment 2\TheSecondDimension\TheSecondDimension\obj\Debug\TheSecondDimension.pdb
